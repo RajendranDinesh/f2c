@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148494371112",
+    "project_id": "farmer2consumer-e881e",
+    "storage_bucket": "farmer2consumer-e881e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148494371112:android:d55fed38eaa1d0ea00281d",
+        "android_client_info": {
+          "package_name": "com.example.f2c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148494371112-l6ae32qhjgcb38oa6mn8ib9if00tk0ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzGodIE03nHsqWDLeTedRPoCXoAtcIps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148494371112-l6ae32qhjgcb38oa6mn8ib9if00tk0ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
